@@ -14,30 +14,6 @@
 
 <br>
 
-<h3 align=center>Featured Projects 💼</h3>
-
----
-
-<p align=center>
-  <a href="https://github.com/c1200/photoalbum">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1200&repo=photoalbum">
-  </a>
-
-  <a href="https://github.com/c1200/rodzcraftanarchy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1200&repo=rodzcraftanarchy">
-  </a>
-
-  <a href="https://github.com/c1200/bungeemotd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1200&repo=bungeemotd">
-  </a>
-
-  <a href="https://github.com/c1200/youtube-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1200&repo=youtube-clone">
-  </a>
-</p>
-
-<br>
-
 <h3 align=center>Languages 'n' Stuff 🔨</h3>
 
 ---
